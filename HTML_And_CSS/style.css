@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+}
+h1, h3 {
+    background-color: yellow;
+    text-align: center;
+    margin: 5;
+}
+h3 {
+    font-size: 18px;
+}
+.fancy {
+    font-style: Italic;
+}
